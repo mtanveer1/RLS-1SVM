@@ -23,7 +23,7 @@ Evaluate: This function calculates G-mean using the true and predicted label.
 
 kernelfun: This is the kernel function utilized to map the data points to kernel space using RBF kernel. 
 
-RLS_OCSVM_test_model1:This function predicts labels for training data using the RLS_1SVM model.
+RLS_OCSVM_test_model1: This function predicts labels for training data using the RLS_1SVM model.
 RLS_OCSVM_test_model2: This function predicts labels for validation data using the RLS_1SVM model.
 RLS_OCSVM_test_model3: This function predicts labels for test data using the RLS_1SVM model.
 
