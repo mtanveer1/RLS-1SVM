@@ -1,6 +1,6 @@
 # RLS-1SVM - Enhancing robustness and sparsity: least squares one-class support vector machine
 
-This code corresponds to the paper: Anuradha Kumari, M. Tanveer. "Enhancing robustness and sparsity: least squares one-class support vector machine. https://dx.doi.org/10.2139/ssrn.5095202”
+This code corresponds to the paper: Kumari, Anuradha, and M. Tanveer. "Enhancing robustness and sparsity: Least squares one-class support vector machine." Pattern Recognition (2025): 111691.
 
 If you are using our code, please give proper citation to the above given paper.
 
